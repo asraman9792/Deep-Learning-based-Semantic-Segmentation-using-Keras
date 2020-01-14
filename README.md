@@ -14,9 +14,6 @@ Link to the full blog post with tutorial : https://divamgupta.com/image-segmenta
 - [Attention based Language Translation in Keras](https://github.com/divamgupta/attention-translation-keras)
 - [Ladder Network in Keras](https://github.com/divamgupta/ladder_network_keras)  model achives 98% test accuracy on MNIST with just 100 labeled examples
 
-### Contributors 
-
-Divam Gupta : https://divamgupta.com
 
 
 ## Models 
